@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<msvClientMessage>
+	<type>
+		authentication
+	</type>
+	<authInfo>
+		<login></login>
+		<pass></pass>
+	</authInfo>
+</msvClientMessage>

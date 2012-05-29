@@ -1,0 +1,23 @@
+    This program is free software; you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation; either version 1, or (at your option)
+    any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+-------------------------------------------------------------------------------
+Welcome to msv_Poker project !
+
+This is poker server (msv_GameServer) + poker client (msv_PokerGui) project, made by three students from Tallinn University of Technology
+
+FAQ
+1.Why msv_* ?
+2.Why poker ?
+3.How to compile projects ?
+Answers
+1. Because our nicknames are m1, s1, v1  
+2. Why not ?
+3. Read INSTALL, it may help you 

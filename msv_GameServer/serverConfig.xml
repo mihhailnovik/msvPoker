@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pokerHost> 
+<server> 
+	<type>SingleThread</type> 
+	<host>127.0.0.1</host> 
+	<port>7777</port> 
+</server>
+<pokerRooms>
+	<Pokerroom>
+		<id>1</id>
+		<name>room1</name>
+		<type>Texas Holdem</type>
+		<maxPlayers>4</maxPlayers>
+		<!--
+		<bet>
+			<buyIn>
+				<min>500</min>
+				<max>1000</max>
+			</buyIn>
+			<blind>
+		      <big>4</big>
+			  <small>2</small>
+			</blind>
+			<raise>
+	       	   <maxPercent>0</maxPercent>
+			   <minPercent>33</minPercent>
+			</raise>
+		</bet> -->
+	</Pokerroom>
+	
+	<Pokerroom>
+		<id>2</id>
+		<name>Newbe room</name>
+		<type>Texas Holdem</type>
+		<maxPlayers>2</maxPlayers>
+		<!--
+		<bet>
+			<buyIn>
+				<min>500</min>
+				<max>1000</max>
+			</buyIn>
+			<blind>
+		      <big>4</big>
+			  <small>2</small>
+			</blind>
+			<raise>
+	       	   <maxPercent>0</maxPercent>
+			   <minPercent>33</minPercent>
+			</raise>
+		</bet> -->
+	</Pokerroom>
+	
+	<Pokerroom>
+		<id>3</id>
+		<name>London </name>
+		<type>Texas Holdem</type>
+		<maxPlayers>4</maxPlayers>
+		<!--
+		<bet>
+			<buyIn>
+				<min>500</min>
+				<max>1000</max>
+			</buyIn>
+			<blind>
+		      <big>4</big>
+			  <small>2</small>
+			</blind>
+			<raise>
+	       	   <maxPercent>0</maxPercent>
+			   <minPercent>33</minPercent>
+			</raise>
+		</bet> -->
+	</Pokerroom>
+	
+	<Pokerroom>
+		<id>4</id>
+		<name>Moscow </name>
+		<type>Texas Holdem</type>
+		<maxPlayers>4</maxPlayers>
+		<!--
+		<bet>
+			<buyIn>
+				<min>500</min>
+				<max>1000</max>
+			</buyIn>
+			<blind>
+		      <big>4</big>
+			  <small>2</small>
+			</blind>
+			<raise>
+	       	   <maxPercent>0</maxPercent>
+			   <minPercent>33</minPercent>
+			</raise>
+		</bet> -->
+	</Pokerroom>
+</pokerRooms>
+</pokerHost>

@@ -1,0 +1,14 @@
+Basic rules :)
+
+1. All code in english 
+2. Use camel style code writing
+ 2.1 classes should start with big letter
+ 2.2 variables and method names with low letter
+3. Avoid copy paste, try to reuse code if its from our application or at least rewrite code if you take it from somewhere.
+4. All methods should be well documented, but avoid useless comments (l.e. getter and setter)
+6. Try to write logs by using qDebug. Make sure that, your debug message containt enaugh information about logged event.
+7. Use only qt libs. Our application should be cross platform 
+8. Use #IFNDEF FILENAME_H in every header file instead #pragma once
+
+9. Every class should extends QObject (?) //XXX maybe this one isn't necessary
+10. No commit, if you can't compile project !

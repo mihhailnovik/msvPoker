@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<msvServerMessage>
+	<type>
+		player_joined_chair
+	</type>
+	<playerJoinedChair>
+		<player>
+			<name>m1</name>
+			<money>2000</money>
+		</player>
+		<chair_id>2</chair_id>
+	</playerJoinedChair>
+</msvServerMessage>

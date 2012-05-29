@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<msvServerMessage>
+	<type>
+		authentication_succesfull
+	</type>
+	<authInfo>
+		<player>
+			<name>m1</name>
+			<money>1000</money>
+		</player>
+		<!-- <last login info bla bla bla -->
+	</authInfo>
+</msvServerMessage>

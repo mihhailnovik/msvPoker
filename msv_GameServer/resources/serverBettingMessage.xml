@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<msvServerMessage>
+	<type>
+		game_action
+	</type>
+	<gameAction>
+		<type>betting</type>
+		<betting>
+			<player>
+				<chaird_id>0</chaird_id>
+				<name>m1</name>
+				<bet>
+					<call>300</call>
+					<raise>500</raise>
+					<fold>0</fold>
+				</bet>
+			</player>
+		</betting>
+	</gameAction>
+</msvServerMessage>

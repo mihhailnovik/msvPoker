@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<msvServerMessage>
+	<type>
+		game_action
+	</type>
+	<gameAction>
+		<maxPlayers>6</maxPlayers>
+		<players>
+			<player>
+				<name>m1</name>
+				<money>1000</money>
+				<chaird_id>0</chaird_id>
+				
+				<diler>true</diler>
+				<lastActionName>fold</lastActionName>
+				<currentRoundMoney>50</currentRoundMoney>
+				<cards>
+					<card>10♣</card>
+					<card>9♣</card>
+				</cards>
+				
+			</player>
+			
+			<player>
+				<name>m1</name>
+				<money>1000</money>
+				<chaird_id>2</chaird_id>
+				
+				<diler>false</diler>
+				<lastActionName>call</lastActionName>
+				<currentRoundMoney>100</currentRoundMoney>
+				<cards>
+					<card>XX</card>
+					<card>XX</card>
+				</cards>
+			</player>
+		</players>
+		
+		<table>
+			<cards>
+					<card>A♣</card>
+					<card>9♣</card>
+					<card>9♣</card>
+			</cards>
+			<money>10000</money>
+		</table>
+	</gameAction>
+</msvServerMessage>

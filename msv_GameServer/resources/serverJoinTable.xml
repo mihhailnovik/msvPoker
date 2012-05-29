@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<msvServerMessage>
+	<type>
+		join_table
+	</type>
+	<join_table>
+		<pokerroom>
+			<name>room1</name>
+			<type>Texas Holdem</type>
+			<maxPlayers>5</maxPlayers>
+			<bet>
+				<buyIn>
+					<min>500</min>
+					<max>1000</max>
+				</buyIn>
+				<blind>
+			    	  <big>4</big>
+				  	<small>2</small>
+				</blind>
+				<raise>
+	 	   	   		<maxPercent>0</maxPercent>
+			   		<minPercent>33</minPercent>
+				</raise>
+			</bet>
+			<players>	
+				<player>
+					<name>s1aY</name>
+					<money>10000</money>
+					<chair_id>1</chair_id>
+				</player>
+				<player>
+					<name>m1</name>
+					<money>1000</money>
+					<chair_id>2</chair_id>
+				</player>
+			</players>	
+		</pokerroom>
+	</join_table>
+</msvServerMessage>

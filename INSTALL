@@ -1,0 +1,5 @@
+1.Download qt http://qt.nokia.com/downloads
+2. Extract qt to a directory (i used C:\Qt4). its better not to extract it in a directory with spaces in it’s name.
+3. open the visual studio console (programm files->visual studio 2008-> vs 2008 tools-> vs 2008 command promt). Go to the directory where you unzipped qt and type configure.
+4.Type nmake and go grab a cup of coffee, take a walk, do whatever you want, because this part usually takes from 2 to 5 hours depends on your PC 
+5.Right click on “My Computer”->properties->advanced->environment variables and add QTDIR = c:\Qt4 (or whatever your qt dir is), edit the path variable to add ;%QTDIR%\bin
